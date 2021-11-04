@@ -1,0 +1,4 @@
+DELETE FROM Student;
+DELETE FROM SC;
+DELETE FROM Course;
+DELETE FROM Teacher;
