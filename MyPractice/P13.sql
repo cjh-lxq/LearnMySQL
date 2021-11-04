@@ -10,5 +10,4 @@ JOIN SC
 ON SC.SId=AvgSC.SId
 -- 先根据平均分降序，平均分一样的根据分数来降序
 ORDER BY  AvgSC.scoreAvg DESC,SC.score DESC
-
 ;
